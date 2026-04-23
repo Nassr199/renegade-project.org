@@ -41,3 +41,6 @@
     - [Installation Guide](en/windows/Installation-guide.md)
     - [Device Support Status](en/windows/state-frame.html)
     - [Touch](en/windows/touch.md)
+
+- Arabic
+  - [OCR Gemini Subtitles](ar/ocr-gemini-subtitles.md)
